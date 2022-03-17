@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Fredoka', sans-serif;
+  background-color: #F4BBBB;
+  font-size: 1.25rem;
+}
+
+hr {
+  border: dotted #F1E1A6 15px;
+  border-bottom: 0;
+  width: 20%;
+  margin: 30px auto 30px auto;
+}
+
+.top-container {
+  background-color: #F1E1A6;
+  padding: 100px 0 50px;
+}
+
+
+.footer-container {
+  background-color: #F1E1A6;
+  overflow: auto;
+  margin-top: 25px;
+}
+
+/* SECTION */
+
+.profile-img {
+  border-radius: 50%;
+  height: 200px;
+  margin: 25px;
+}
+
+.circle-img {
+  border-radius: 50%;
+  height: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.title-txt {
+  font-family: 'Merriweather', serif;
+  font-size: 3rem;
+}
+.sub-title-txt {
+  color: #404040;
+}
+
+.block-container {
+  text-align: left;
+  display: inline-block;
+  width: 75%;
+  margin-bottom: 25px;
+  padding: 20px;
+}
+
+.btn {
+  background: #97DBAE;
+  font-size: 2rem;
+  border-radius: 28px;
+  color: #ffffff;
+  padding: 13px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #C3E5AE;
+  text-decoration: none;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
+
+.smll-txt {
+  font-size: 0.9rem;
+}
