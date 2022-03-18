@@ -63,6 +63,14 @@ hr {
   padding: 20px;
 }
 
+.title-container {
+  text-align: left;
+  width: 500px;
+  margin: auto auto 25px;
+  padding: 20px;
+}
+
+
 .btn {
   background: #97DBAE;
   font-size: 2rem;
@@ -83,8 +91,4 @@ hr {
 
 .contact-me {
   margin-bottom: 50px;
-}
-
-.smll-txt {
-  font-size: 0.9rem;
 }
