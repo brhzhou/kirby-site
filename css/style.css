@@ -35,14 +35,15 @@ hr {
 /* SECTION */
 
 .profile-img {
-  border-radius: 50%;
   height: 200px;
-  margin: 25px;
+  float: left;
+  margin-right: 25px;
 }
 
 .circle-img {
   border-radius: 50%;
   height: 200px;
+  width: 200px;
   float: left;
   margin-right: 20px;
 }
